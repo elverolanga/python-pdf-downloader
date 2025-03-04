@@ -1,4 +1,4 @@
-pyimport os
+import os
 import requests
 
 urls = [
